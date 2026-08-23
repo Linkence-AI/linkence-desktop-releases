@@ -1,0 +1,2 @@
+5088f6ffbabfafdba17d23ae6747c85225bcf0c0e0cf311be6c4e6ffb9a266b1  Linkence_Desktop_Computer-Use_QA_0.2.0_x64-setup.exe
+b07db604b0eb2b0c78811bd7a701805b38a0f8df28a35272f837f9414ed9ee3b  Linkence_Desktop_Computer-Use_QA_0.2.0_provenance.json
